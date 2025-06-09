@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/dac42d06-e79a-442e-9b9c-0e7436b03812)
+
+
 # VanyaVPN-installer
 Installs VanyaVPN.AppImage as regular Ubuntu desktop application
 
